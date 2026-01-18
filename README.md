@@ -26,7 +26,7 @@ This repository is provided to support reproducibility, transparency, and future
 - [Datasets](#datasets)
 - [Objectives](#objectives)
 - [Proposed Framework](#proposed-framework)
-  - [Traditional Computer Vision Branch](#traditional-computer-vision-branch)
+  - [Machine Learning Branch](#machine-learning-branch)
   - [Deep Learning Branch](#deep-learning-branch)
   - [Explainable AI Module](#explainable-ai-module)
 - [Evaluation Protocol](#evaluation-protocol)
